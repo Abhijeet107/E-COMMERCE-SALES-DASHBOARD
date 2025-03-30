@@ -1,6 +1,7 @@
 # E-Commerce Sales Analysis Dashboard
 
-![E-Commerce Dashboard](Screenshot-2025-03-30-132520.png)  
+![Screenshot 2025-03-30 132520](https://github.com/user-attachments/assets/6a79522d-f679-4b9d-8d80-be76e9651613)
+
 *(Replace with actual image link)*
 
 A comprehensive dashboard analyzing sales data across regions, categories, and markets. Built to showcase key insights and trends for strategic decision-making.
